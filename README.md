@@ -1,4 +1,4 @@
-# Alu Games
+# Alu-Games
 
 Realização de projetos voltados para o ensino da lógica de programação através da linguagem **JavaScript**.
 
