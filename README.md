@@ -1,4 +1,4 @@
-# AluGames
+# Alu Games
 
 Realização de projetos voltados para o ensino da lógica de programação através da linguagem **JavaScript**.
 
@@ -16,4 +16,5 @@ Manipulação de elementos através de botões com o objetivo de simular o alugu
 
 https://alu-games-lemon.vercel.app/
 
-![image](https://github.com/diandrade/alura-logica/assets/81432715/5e909f44-99f3-4225-aa01-a777d515b82d)
+![image](https://github.com/diandrade/alu-games/assets/81432715/7e9dcbfd-9c39-4967-931b-2976f8b2f6a4)
+
