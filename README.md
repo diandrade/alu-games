@@ -4,13 +4,23 @@ Realização de projetos voltados para o ensino da lógica de programação atra
 
 Utilização de elementos de **JavaSript** em aplicação com **CSS** para manipulação de botões em páginas estáticas na web.
 
-- classList.remove = Exclusão de elementos;
+- Analisar o código de uma página HTML para entender sua estrutura e planejar o código de sua funcionalidade;
 
-- classlist.add = Adição de elementos;
+- Recuperar elementos da página com JavaScript, com o uso das funções document.querySelector() e document.getElementById();
 
-- classList.constains = Manipulação de elementos;
+- Declarar variáveis no JavaScript para armazenar elementos recuperados da página;
 
-- Recuperar de elementos com JavaScript através das funções *document.querySelector()* e *document.getElementById()*;
+- Acessar a lista de classes que um elemento da página possui, via propriedade classList;
+
+- Verificar se um elemento da página possui uma determinada classe CSS, via função classList.contains();
+
+- Remover uma classe CSS de um elemento da página, via função classList.remove();
+
+- Adicionar uma classe CSS a um elemento da página, via função classList.add();
+
+- Alterar o texto de um elemento da página, via propriedade textContent;
+
+- Declarar um bloco condicional if/else, para implementar a funcionalidade de alterar o status de um jogo.
 
 Manipulação de elementos através de botões com o objetivo de simular o aluguel de um jogo com visual previamente disponibilizado.
 
