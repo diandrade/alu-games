@@ -1,30 +1,24 @@
 # Alu-Games
 
-Realização de projetos voltados para o ensino da lógica de programação através da linguagem **JavaScript**.
+A project focused on teaching programming logic through **JavaScript**.
 
-Utilização de elementos de **JavaSript** em aplicação com **CSS** para manipulação de botões em páginas estáticas na web.
+The application uses **JavaScript** elements combined with **CSS** to manipulate buttons on static web pages.
 
-- Analisar o código de uma página HTML para entender sua estrutura e planejar o código de sua funcionalidade;
+### Features:
+- Analyze the HTML page code to understand its structure and plan the functionality code.
+- Retrieve elements from the page using JavaScript with the functions `document.querySelector()` and `document.getElementById()`.
+- Declare variables in JavaScript to store elements retrieved from the page.
+- Access the list of classes an element has via the `classList` property.
+- Check if an element contains a specific CSS class using the `classList.contains()` function.
+- Remove a CSS class from an element via the `classList.remove()` function.
+- Add a CSS class to an element via the `classList.add()` function.
+- Change the text of an element via the `textContent` property.
+- Declare an `if/else` conditional block to implement the functionality of changing a game's status.
 
-- Recuperar elementos da página com JavaScript, com o uso das funções document.querySelector() e document.getElementById();
+The project manipulates elements through buttons to simulate a game rental, with a pre-designed visual provided.
 
-- Declarar variáveis no JavaScript para armazenar elementos recuperados da página;
-
-- Acessar a lista de classes que um elemento da página possui, via propriedade classList;
-
-- Verificar se um elemento da página possui uma determinada classe CSS, via função classList.contains();
-
-- Remover uma classe CSS de um elemento da página, via função classList.remove();
-
-- Adicionar uma classe CSS a um elemento da página, via função classList.add();
-
-- Alterar o texto de um elemento da página, via propriedade textContent;
-
-- Declarar um bloco condicional if/else, para implementar a funcionalidade de alterar o status de um jogo.
-
-Manipulação de elementos através de botões com o objetivo de simular o aluguel de um jogo com visual previamente disponibilizado.
-
-https://alu-games-lemon.vercel.app/
+[View the project live](https://alu-games-lemon.vercel.app/)
 
 ![image](https://github.com/diandrade/alu-games/assets/81432715/7e9dcbfd-9c39-4967-931b-2976f8b2f6a4)
+
 
